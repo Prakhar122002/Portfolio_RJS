@@ -1,3 +1,3 @@
 || PORTFOLIO WEBSITE USING REACTJS ||
 
-Deployment Link-: " portfolio-pmahori-syf3.vercel.app "
+Deployment Link-: "https://portfolio-rjs-j4us.vercel.app/"
