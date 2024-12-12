@@ -36,13 +36,13 @@ export const home = [
     name: "Prakhar Mahori",
     post: "WEB DESIGNER",
     design: "UI / UX DESIGNER",
-    desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+    desc: "Nice to see you!",
   },
 ]
 export const about = [
   {
-    desc: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur",
-    desc1: "magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor si voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur",
+    desc: "Hardworking and passionate Computer Science Engineer with strong organizational skills eager to secure entry-level position. Ready to help team achieve company goals. I am here to seek and maintain full-time position that offers professional challenges utilizing interpersonal skills, excellent time management and problem-solving skills.",
+    desc1: "Possesses a strong foundation in programming and web development. I am proficient in programming languages such as C, C++, JavaScript, Python, and has a solid understanding of Data Structures and Algorithms. My expertise extends to web technologies, including HTML5, CSS3, ReactJS, NodeJS, and PHP, enabling me to develop dynamic and responsive web applications. I am skilled in data management, working with databases like MySQL and MongoDB to efficiently store and retrieve data. Additionally, I am adept at leveraging AI tools like ChatGPT, GitHub Copilot, Grammarly, and Writesonic to enhance productivity and creativity in my projects.",
     cover: "./images/man.png",
   },
 ]
@@ -159,21 +159,21 @@ export const testimonials = [
     id: 1,
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitordapibus dictum.Fusce faucibus ligula scelerisque, eleifend turpis in",
     image: "./images/testimonials/team-1.png",
-    name: "Alamin Musa",
+    name: "Prakhar Mahori",
     post: "Front End Developer",
   },
   {
     id: 2,
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitordapibus dictum.Fusce faucibus ligula scelerisque, eleifend turpis in",
     image: "./images/testimonials/team-2.png",
-    name: "Alex Ander",
+    name: "Prakhar Mahori",
     post: "Back End Developer",
   },
   {
     id: 3,
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitordapibus dictum.Fusce faucibus ligula scelerisque, eleifend turpis in",
     image: "./images/testimonials/team-3.png",
-    name: "GorkCoder",
+    name: "Prakhar Mahori",
     post: "React Developer",
   },
 ]
@@ -206,18 +206,18 @@ export const blog = [
 export const contact = [
   {
     icon: <AddLocationAltOutlined />,
-    text1: "2651 Main Street, Suit 124",
-    text2: "Seattle, WA, 98101",
+    text1: "804, Sky Gardens",
+    text2: "Sector 16-B, Noida, 201301",
   },
   {
     icon: <PhoneIphone />,
-    text1: "0123456789",
-    text2: "0345627891",
+    text1: "+91-8923995330",
+    text2: "+91-9760692030",
   },
   {
     icon: <EmailOutlined />,
-    text1: "hello@thetheme.io",
-    text2: "inf0@brex-theme.io",
+    text1: "psmahori2002@gmail.com",
+    text2: "smahori@gmail.com",
   },
 ]
 export const social = [
