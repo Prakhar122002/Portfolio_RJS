@@ -34,7 +34,7 @@ export const home = [
   {
     text: "HELLO I'M",
     name: "Prakhar Mahori",
-    post: "WEB DESIGNER",
+    post: "WEB DEVELOPER",
     design: "UI / UX DESIGNER",
     desc: "Nice to see you!",
   },
